@@ -1,0 +1,7 @@
+Git commands
+git add .
+git commit -m "myfirst commit"
+git log
+git status
+git switch
+git checkout

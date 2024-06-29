@@ -5,4 +5,5 @@ git log
 git status
 git switch
 git checkout
-git clone git_url
+git clone git_ur
+git logs is no commandl
